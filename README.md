@@ -1,4 +1,3 @@
-# Telegram_Lead_Qualification_Agent1
 # 🤖 Telegram Lead Qualification AI Agent (n8n)
 
 This workflow turns your **Telegram bot into an intelligent lead qualification assistant** using **AI + memory + BANT framework**, and automatically stores qualified leads in **Google Sheets**.
